@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Snappy Kraken",
+      "role": "Software Engineer - Convos - Contract",
+      "link": "https://getconvos.com/",
+      "location": "New York, NY",
+      "start_date": 2023,
+      "end_date": 2023,
+      "details": [
+        "Designed, developed, and tested new features for Convos' web application using React.ts, Ruby on Rails, and GraphQL.",
+        "Resolved bugs and collaborated with the design team on UI features.",
+        "Contributed to code reviews and team communication enhancements."
+      ],
+      "type": "work"
+    },
+    {
+      "title": "Freelance Audio/Video Producer",
+      "role": null,
+      "link": null,
+      "location": "New York, NY",
+      "start_date": 2017,
+      "end_date": 2022,
+      "details": [
+        "The Conference Forum - Collaborated with the Executive Director and Senior Marketing Manager to create video, photo, motion graphics, and audio assets for high-level Pharma and biotech conferences.",
+        "Blinkist - Consulted with the Head of Content Development on a new creative audio storytelling format.",
+        "Food & Wine - Worked under the Executive Director of Video Programming, producing 3 installments of the 'Hungry Yet' YouTube series."
+      ],
+      "type": "work"
+    },
+    {
+      "title": "Iron Tribe Fitness",
+      "role": "Videographer and Media Specialist",
+      "link": "https://irontribefitness.com/",
+      "location": "Birmingham, AL",
+      "start_date": 2015,
+      "end_date": 2017,
+      "details": [
+        "Orchestrated the 2016 Athlete of the Year campaign with the VP of Marketing.",
+        "Conducted monthly meetings with the marketing team, president, and CEO to select featured members for each month.",
+        "Arranged travel for self and crew to the chosen candidate's location, ingested, and edited the resulting footage for YouTube and social platforms.",
+        "Handled all video and media creation for the organization."
+      ],
+      "type": "work"
+    },
+    {
+      "title": "The University of Alabama",
+      "role": "Telecommunication & Film, BS; History, BA",
+      "link": "https://www.ua.edu/",
+      "location": "Tuscaloosa, AL",
+      "start_date": 2008,
+      "end_date": 2012,
+      "details": [
+        "Double majored in film and history with a minor in creative writing."
+      ],
+      "type": "education"
+    },
+    {
+      "title": "Flatiron School",
+      "role": "Software Engineering Bootcamp",
+      "link": "https://flatironschool.com",
+      "location": "New York, NY",
+      "start_date": 2022,
+      "end_date": 2023,
+      "details": [
+        "Completed the full-time in-person program."
+      ],
+      "type": "education"
+    },
+    {
+      "title": "The LEGO Group",
+      "role": "Brick Specialist",
+      "link": "https://lego.com",
+      "location": "New York, NY",
+      "start_date": 2018,
+      "end_date": 2023,
+      "details": [
+        "Assisted guests using my passion for the LEGO brand, and furthered my understanding of their systems and practices."
+      ],
+      "type": "work"
+    }
+  ]
+  
