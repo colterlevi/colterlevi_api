@@ -1,0 +1,188 @@
+[
+    {
+      "category":"childhood",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"In which city was I born?",
+      "correct_answer":"Birmingham",
+      "incorrect_answers":[
+        "Pensacola",
+        "New York",
+        "Atlanta"
+      ]
+    },
+    {
+      "category":"general trivia",
+      "type":"boolean",
+      "difficulty":"easy",
+      "question":"Colter is an only child.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"general trivia",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which company do I currently work for?",
+      "correct_answer":"Cint",
+      "incorrect_answers":[
+        "Lego",
+        "Google",
+        "Amazon"
+      ]
+    },
+    {
+      "category":"family history",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"In which state did my paternal grandfather run for governor in 1958?",
+      "correct_answer":"Alabama",
+      "incorrect_answers":[
+        "Georgia",
+        "Hawaii",
+        "Minnesota"
+      ]
+    },
+    {
+      "category":"pets",
+      "type":"text",
+      "difficulty":"medium",
+      "question":"What was the name of my longset living pet?",
+      "correct_answer":"Riley"
+    },
+    {
+      "category":"childhood",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"What was my favorite toy growing up?",
+      "correct_answer":"Lego",
+      "incorrect_answers":[
+        "Playmobil",
+        "Barbie",
+        "Hot Wheels"
+      ]
+    },
+    {
+      "category":"adulthood",
+      "type":"multiple",
+      "difficulty":"hard",
+      "question":"What is my favorite foreign city?",
+      "correct_answer":"Edinburgh",
+      "incorrect_answers":[
+        "Paris",
+        "London",
+        "Montreal"
+      ]
+    },
+    {
+      "category":"adulthood",
+      "type":"boolean",
+      "difficulty":"easy",
+      "question":"Colter once took a two week trip to China.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"college",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Colter has a degree in Computer Science.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"childhood",
+      "type":"multiple",
+      "difficulty":"hard",
+      "question":"Who was Colter's best friend in 4th grade?",
+      "correct_answer":"Karl Antonucci",
+      "incorrect_answers":[
+        "Marcus Tortorici",
+        "Damon Belton",
+        "Maxwell Korn"
+      ]
+    },
+    {
+      "category":"family history",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"My maternal grandfather played college football for which school?",
+      "correct_answer":"Baylor University",
+      "incorrect_answers":[
+        "Auburn University",
+        "The Universtiy of Alabama",
+        "The University of Georgia"
+      ]
+    },
+    {
+      "category":"adulthood",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which coding bootcamp did Colter attend?",
+      "correct_answer":"Flatiron School",
+      "incorrect_answers":[
+        "Columbia Engineering Bootcamp",
+        "The Universtiy of Alabama",
+        "Fullstack Academy"
+      ]
+    },
+    {
+      "category":"family history",
+      "type":"text",
+      "difficulty":"hard",
+      "question":"What state and/or colony did the Longshore family first emigrate to?",
+      "correct_answer":"Pennsylvania"
+    },
+    {
+      "category":"general triva",
+      "type":"boolean",
+      "difficulty":"easy",
+      "question":"Colter loves building Lego.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"pets",
+      "type":"multiple",
+      "difficulty":"hard",
+      "question":"How many pets has Colter had in his life?",
+      "correct_answer":"14",
+      "incorrect_answers":[
+        "7",
+        "12",
+        "11"
+      ]
+    },
+    {
+      "category":"adulthood",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which gym franchise did Colter work for?",
+      "correct_answer":"Iron Tribe Fitness",
+      "incorrect_answers":[
+        "Orange Theory Fitness",
+        "The YMCA",
+        "Gold's Gym"
+      ]
+    },
+    {
+      "category":"family history",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Colter's paternal great-grandfather played college baseball for which school?",
+      "correct_answer":"The University of Alabama",
+      "incorrect_answers":[
+        "Vanderbilt University",
+        "Tulane University",
+        "Samford University"
+      ]
+    }
+]
